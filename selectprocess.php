@@ -8,10 +8,7 @@
 
 foreach($_POST['courseid'] as $courseid) {
 
-   $servername = "localhost";
-   $username = "jaxcode83";
-   $password = "Ducks0up";
-   $dbname = "jaxcode83";
+
 
    
 
