@@ -1,9 +1,6 @@
 <? session_start(); ?>
 <?
-  $servername = "localhost";
-  $username = "jaxcode83";
-  $password = "Ducks0up";
-  $dbname = "jaxcode83";
+
 
  
  
