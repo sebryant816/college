@@ -30,13 +30,6 @@
 
  <!--<Connection Creditials>--->   
 
- <?
-    $servername = "localhost";
-    $username = "jaxcode83";
-    $password = "Ducks0up";
-    $dbname = "jaxcode83";
-    ?>
-
 
     <div class="probootstrap-search" id="probootstrap-search">
       <a href="#" class="probootstrap-close js-probootstrap-close"><i class="icon-cross"></i></a>
