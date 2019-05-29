@@ -14,12 +14,6 @@
 
 if (isset($_POST['login'])) {
 
-    $servername = "localhost";
-   $username = "jaxcode83";
-   $password = "Ducks0up";
-   $dbname = "jaxcode83";
-
-
 
 
 // Create connection
